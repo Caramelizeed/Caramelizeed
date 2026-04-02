@@ -1,24 +1,16 @@
 <div align="center">
 ```
 ```
-██████╗ ██╗   ██╗ █████╗ ███╗   ██╗████████╗
-██╔═══██╗██║   ██║██╔══██╗████╗  ██║╚══██╔══╝
-██║   ██║██║   ██║███████║██╔██╗ ██║   ██║
-██║▄▄ ██║██║   ██║██╔══██║██║╚██╗██║   ██║
-╚██████╔╝╚██████╔╝██║  ██║██║ ╚████║   ██║
- ╚══▀▀═╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝
+ ██████╗  ██╗   ██╗  █████╗  ███╗  ██╗ ████████╗
+██╔════╝  ██║   ██║ ██╔══██╗ ████╗ ██║    ██╔══╝
+██║  ███╗ ██║   ██║ ███████║ ██╔██╗██║    ██║   
+██║   ██║ ██║   ██║ ██╔══██║ ██║╚████║    ██║   
+╚██████╔╝ ╚██████╔╝ ██║  ██║ ██║ ╚███║    ██║   
+ ╚═════╝   ╚═════╝  ╚═╝  ╚═╝ ╚═╝  ╚══╝   ╚═╝   
 ```
 ```
 
 ### `Quant Developer · AI Systems Engineer · Algo Trader`
-
-*Building financial intelligence at the intersection of math, markets, and machines.*
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/carameliseeed)
-![Location](https://img.shields.io/badge/Based_in-India-orange?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Quant_%2F_AI_%2F_HFT-blue?style=flat-square)
-
-</div>
 
 ---
 
