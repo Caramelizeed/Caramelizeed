@@ -109,7 +109,6 @@ class QuantDeveloper:
 <div align="center">
 
 *"The market is a device for transferring money from the impatient to the patient."*
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=Caramelizeed&icon=5&color=6)
+![](https://komarev.com/ghpvc/?username=Caramelizeed)
 
 </div>
