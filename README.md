@@ -87,7 +87,7 @@ class QuantDeveloper:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Caramelizeed&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Caramelizeed&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caramelizeed&theme=chartreuse-dark&hide_border=true&layout=compact&langs_count=8" width="49%" />
 
 <img src="https://streak-stats.demolab.com?user=Caramelizeed&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" width="70%" />
